@@ -1,0 +1,48 @@
+{
+	"type": "Collection",
+	"properties": {
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 0
+		},
+		"foundation_year": {
+			"name": "foundation_year",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "foundation_year",
+			"order": 1
+		},
+		"cidade": {
+			"name": "cidade",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "cidade",
+			"order": 2
+		},
+		"ceo": {
+			"name": "ceo",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "ceo",
+			"order": 3
+		},
+		"revenue": {
+			"name": "revenue",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "revenue",
+			"order": 4
+		}
+	},
+	"collections": {
+		"companies1234567890": "companies"
+	}
+}
